@@ -3,11 +3,18 @@ Data Science project where we use Python and the CoppeliaSim simulator to build 
 
 ### Installation and Execution 🔧
 
-Download and start the interface by doing
+Download and start the simulator by doing
+
+```
+./V-rep/vrep.sh 
+```
+
+Now start the interface by doing
 
 ```
 python3 mainInterfaz.py
 ```
+
 You may need to install some python modules
 
 ## Built with 🛠️
