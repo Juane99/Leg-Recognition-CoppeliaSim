@@ -3,10 +3,16 @@ Data Science project where we use Python and the CoppeliaSim simulator to build 
 
 ### Installation and Execution 🔧
 
-Download and start the simulator by doing
+Download the CoppeliaSim simulator using this link:
 
 ```
-./V-rep/vrep.sh 
+https://www.coppeliarobotics.com/files/V-REP_PRO_EDU_V3_6_2_Ubuntu18_04.tar.xz
+```
+
+Start the simulator by doing
+
+```
+./V-REP_PRO_EDU_V3_6_2_Ubuntu18_04/vrep.sh 
 ```
 
 Now start the interface by doing
