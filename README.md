@@ -25,7 +25,7 @@ You may need to install some python modules
 
 ## License 📄
 
-[LICENSE](https://github.com/Juane99/Letters-Game/blob/master/LICENSE) for details
+[LICENSE](https://github.com/Juane99/Leg-Recognition-CoppeliaSim/blob/main/LICENSE) for details
 
 
 ## Thank you all
